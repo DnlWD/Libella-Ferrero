@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Prepros files
+prepros-6.config
+
 # =========================
 # Operating System Files
 # =========================
